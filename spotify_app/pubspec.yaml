@@ -22,6 +22,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  # Got the image from https://developer.spotify.com/documentation/design
   assets:
     - assets/images/Primary_Logo_White_CMYK.png
 
