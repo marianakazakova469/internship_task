@@ -28,11 +28,27 @@ I was given an internship assessment task from **Livewall** to create a simple F
 
 ![App Screenshot](login_screen.png)
 ![App Screenshot](verify_account.png)
-3. **Profile Screen**
+
+
+2. **Profile Screen**
+
+
+
 ![App Screenshot](profile_screen.png)
-4. **Playlist Screen**
+
+
+
+3. **Playlist Screen**
+
+
 ![App Screenshot](playlist_screen.png)
-5. **Track Detail**
+
+
+
+4. **Track Detail**
+
+
+
 ![App Screenshot](track_screen.png)
 
 ## Prerequisites
