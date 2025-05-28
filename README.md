@@ -67,7 +67,7 @@ git clone https://github.com/marianakazakova469/internship_task.git
 cd internship_task/spotify_app
 ```
 
-2. **Install fFlutter dependencies**
+2. **Install Flutter dependencies**
 ```bash
 flutter pub get
 ```
