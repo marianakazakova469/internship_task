@@ -24,13 +24,15 @@ I was given an internship assessment task from **Livewall** to create a simple F
 ## Screenshots
 
 1. **Login Screen**
+
+
 ![App Screenshot](login_screen.png)
 ![App Screenshot](verify_account.png)
-2. **Profile Screen**
+3. **Profile Screen**
 ![App Screenshot](profile_screen.png)
-3. **Playlist Screen**
+4. **Playlist Screen**
 ![App Screenshot](playlist_screen.png)
-4. **Track Detail**
+5. **Track Detail**
 ![App Screenshot](track_screen.png)
 
 ## Prerequisites
