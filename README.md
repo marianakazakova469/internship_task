@@ -72,17 +72,7 @@ cd internship_task/spotify_app
 flutter pub get
 ```
 
-3. **Add your Spotify credentials** **(not needed for the assessment)**
-```bash
-const String clientId = 'YOUR_SPOTIFY_CLIENT_ID';
-const String redirectUri = 'yourapp://callback';
-```
-
-4. **Update XML and PLINK files** **(not needed for the assessment)**
-- For Android: Update AndroidManifest.xml
-- For iOS: Update Info.plist
-
-5. **Run the app** 
+3. **Run the app** 
 ```bash
 flutter run
 ```
